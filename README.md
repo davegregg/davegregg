@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I can write a normal paragraph in here, WITHOUT any code whatsoever!
+
 <!--
 **davegregg/davegregg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
