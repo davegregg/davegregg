@@ -1,6 +1,12 @@
-### Hi there 👋
+## Hi there, I'm DMG 👋
 
-I can write a normal paragraph in here, WITHOUT any code whatsoever!
+### I am a professional explainer of things. Especially code things!
+
+<!-- <details>
+  <summary>My name is...</summary>
+  
+  DMG! HAHAHAHAhahahaahah!!!!
+</details> -->
 
 <!--
 **davegregg/davegregg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
