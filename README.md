@@ -2,11 +2,11 @@
 
 ### I am a professional explainer of things. Especially code things!
 
-<details>
+<!-- <details>
   <summary>My name is...</summary>
   
   DMG! HAHAHAHAhahahaahah!!!!
-</details>
+</details> -->
 
 <!--
 **davegregg/davegregg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
