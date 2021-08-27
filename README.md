@@ -1,24 +1,32 @@
-## Hi there, I'm DMG 👋
+## Hello, I am David Michael Gregg 👋
+*But almost everybody knows me as **DMG***
 
-### I am a professional explainer of things. Especially code things!
+### I am a software engineer and a professional explainer of things with twenty years of experience with public speaking and Web technologies. I have taught thousands to code through private mentorship, The Iron Yard (now-defunct), and [Kenzie Academy](https://kenzie.academy)/[SNHU](https://en.wikipedia.org/wiki/Southern_New_Hampshire_University).
 
-<!-- <details>
-  <summary>My name is...</summary>
+Among engineering fields, software engineering is still very much _unsettled._
+
+Look at the paradigm shifts in this field. What it means to build software _changes_ every 5 to 15 years! This is a field which may have had its Galileo, perhaps its Newton. But the field itself is still very much in active development. 
+
+We must not assume that the syllabus of the last decade is the best we can do for the art, for our learners, our teams, our goals. You are on the cutting edge of a field _still_ young and naive. Let's discover – together – what it means to express human designs through language and through machines.
+
+<details>
+  <summary><strong>What do I <em>specialize</em> in training?</strong></summary>
   
-  DMG! HAHAHAHAhahahaahah!!!!
-</details> -->
+- fundamentals of programming to _absolute_ beginners – regardless of background or prerequisites.
+- code quality, by helping learners develop both concrete understandings and intuition – especially when it comes to readability and edge cases.
+- debugging strategies, metacognitive approaches to ideation & problem-solving, and pseudocode.
+- assessing code quality quantitatively for identifying refactoring opportunities, using Jim Weirich's approach to [Connascence](https://youtube.com/results?search_query=jim+weirich+connascence) – an evolution of the ideas of Coupling & Cohesion introduced in the late 70s for the Structured Paradigm.
+- trainers.
+</details>
 
-<!--
-**davegregg/davegregg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary><strong>What have I been thinking about lately (2020-2021)?</strong></summary>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_The gist:_ I'm looking for solutions to learning obstacles in software engineering – particularly for career changers and learners with little education.
+  
+- Comparative study of programming paradigms and other organizational/architectural patterns to seek generalizations which may transcend paradigms.
+- The relationships between self-identity, first impressions, growth mindset, and affirmative cultures for teams and learning groups.
+- Identifying abstraction gaps between beginners and _functions_ in programming (and their use) in particular.
+- Functions from the perspective of Lambda Calculus – this has been enlightening because it highlights core feature distinctions between functions in Lambda and functions in most programming languages.
+- Experimental programming syntaxes which may be easier to adopt for beginners with no prior programming syntax biases.
+</details>
