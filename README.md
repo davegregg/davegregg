@@ -1,7 +1,7 @@
 ## Hello, I am David Michael Gregg 👋
-*But almost everybody knows me as **DMG***
+*But most people know me as **DMG***
 
-### I am a software engineer and a professional explainer of things with twenty years of experience with public speaking and Web technologies. I have taught thousands to code through private mentorship, The Iron Yard (now-defunct), and [Kenzie Academy](https://kenzie.academy)/[SNHU](https://en.wikipedia.org/wiki/Southern_New_Hampshire_University).
+### I am a software engineer and a professional explainer of things with twenty years of experience with Web technologies and public speaking. I have taught thousands of people to code – through private mentorship, The Iron Yard (now-defunct), and [Kenzie Academy](https://kenzie.academy)/[SNHU](https://en.wikipedia.org/wiki/Southern_New_Hampshire_University).
 
 Among engineering fields, software engineering is still very much _unsettled._
 
